@@ -1,0 +1,71 @@
+nav{
+    background-color: rgb(255, 0, 0);
+    
+    
+    font-size: 35PX;
+    
+    margin: 10px;
+    
+    border-radius: 13px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    }
+
+    .non{
+        color: rgb(255, 255, 255);
+
+        text-decoration: none;
+        font-family: Monospace ;
+    }
+
+
+li{
+
+    margin: 15px;
+font-size: 25px;
+text-decoration: none;
+font-family: Monospace ;
+
+
+}
+
+
+
+a{
+
+
+    text-decoration: none;
+color: black;
+
+
+
+}
+
+p{
+
+    margin: 15px;
+    font-size: 25px;
+    text-decoration: none;
+    font-family: Monospace ;
+    
+
+
+
+
+}
+
+button{
+
+
+
+
+    border-radius: 13px;
+
+
+
+
+
+}
