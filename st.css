@@ -1,68 +1,98 @@
-nav{
-    background-color: rgb(255, 0, 0);
-    
-    
-    font-size: 35PX;
-    
-    margin: 10px;
-    
-    border-radius: 13px;
-    
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    
-    }
 
-    .non{
-        color: rgb(255, 255, 255);
-
-        text-decoration: none;
-        font-family: Monospace ;
-    }
+*{
 
 
-li{
+margin: 0;
 
-    margin: 15px;
-font-size: 25px;
-text-decoration: none;
-font-family: Monospace ;
+padding: 0;
+
+box-sizing: border-box;
+
+
+
+
+
+
+
 
 
 }
 
 
+
+
+
+
+.hero{
+
+min-height: 100vh;
+
+width: 100%;
+
+background-color: #000;
+
+
+background-image:url(sa.gif) ;
+
+background-position:center ;
+
+background-repeat: no-repeat;
+
+background-size: 70%;
+
+
+
+}
+
+
+
+
+
+
+
+nav{
+
+color: #000;
+background-color: #000;
+
+
+
+
+
+}
 
 a{
 
+ text-decoration: none;   
+ color: rgb(255, 255, 255);
 
-    text-decoration: none;
-color: black;
-
-
-
-}
-
-p{
-
-    margin: 15px;
-    font-size: 25px;
-    text-decoration: none;
-    font-family: Monospace ;
-    
-
+font-size: 20px;
+margin: 10px;
+font-family:Serif ;
 
 
 
 }
+
 
 button{
 
+background-color: rgb(0, 0, 0);
+
+border-radius: 8px;
 
 
 
-    border-radius: 13px;
+}
+
+
+h1{
+
+    font-family:
+     ;
+
+color: rgb(255, 255, 255);
+background-color: #000;
 
 
 
